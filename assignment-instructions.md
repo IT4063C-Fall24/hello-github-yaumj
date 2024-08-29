@@ -25,7 +25,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 ### Checkpoint 2: Update the Repository
   - Open the repository in your text editor (Ideally, VS Code).
-  - [ ] **Adding New Files.**
+  - [x] **Adding New Files.**
     - Create a new file with the following name `intro.md` and paste in the following text (as is - do not modify it):
     
     ```
